@@ -1,0 +1,59 @@
+.MY_nav{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    color: black;
+    background-color: lightblue;
+}
+Body{
+    text-align: center;
+}
+.contact us{
+    text-align: left;
+}
+.Campus_main p{
+    color: black;
+    text-align: center;
+}
+.Campus_main img{
+    height: 312px;
+    width: 869px;
+}
+.Achievements-main p{
+    font-size: 30px;
+    color: black;
+}
+.Achievements-main img{
+    height: 312px;
+    width: 869px; 
+}
+.new_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    width: 100%;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+.new_head i{
+    float: right;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display: inline-block;
+    width: 366px;
+    height: 473px;
+}
+.img-modal{
+    width: 366px;
+    height: 473px;
+}
+.face{
+    height: 10px;
+    width: 10px;
+}
+.inline{
+    display: inline;
+}
